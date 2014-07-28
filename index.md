@@ -1,46 +1,36 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: nd4
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Nick Bargnesi's home on the web.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+# Reading
 
-## Update Author Attributes
+I read a lot. My favorites include:
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+* _East of Eden_ by John Steinbeck
+* _Zen and the Art of Motorcycle Maintenance_, by Robert M. Pirsig
+* _Atlas Shrugged_, by Ayn Rand
+* _The Fountainhead_, by Ayn Rand
+* _Stranger in a Strange Land_, by Robert A. Heinlein
+* _The Brothers Karamazov_, by Fyodor Dostoyevsky
+* _Round the Bend_, by Nevil Shute
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+# Portfolio
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+* lazarus --- Python library to restart a process
+* eba --- A tool for building a complete GNU toolchain and minimal GNU/Linux distribution
+* inotify-java -- 
+* xy -- 
+* bash-environment -- 
+* scripts -- 
+* iconfs -- 
+* environment -- 
+* nick.den-4.com -- 
+* smappy -- 
+* ventilator -- 
+* BEL Framework -- 
+* BEL Editor -- 
+* belscript-grammar -- 
